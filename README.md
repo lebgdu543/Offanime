@@ -1,4 +1,5 @@
-# **This website is under developement.**
+# IMPORTANT: We are moved to OfflineAnime -> https://github.com/lebgdu543/OfflineAnime
+# **This website is closed.**
 
 # --- Offanime ---
 
