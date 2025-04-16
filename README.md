@@ -1,6 +1,3 @@
-# IMPORTANT: We are moved to OfflineAnime -> https://github.com/lebgdu543/OfflineAnime
-# **This website is closed.**
-
 # --- Offanime ---
 
 ## What is the aim of this site and why does it exist?
@@ -46,4 +43,4 @@ sudo apt update -y && sudo apt upgrade -y
 
 ## --- Licence ---
 
-Do not copy, share and anything else to make this project more popular before the version "stable v1.1". Please
+MIT
